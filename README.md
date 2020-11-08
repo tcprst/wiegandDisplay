@@ -34,6 +34,12 @@ Example schematic:
 
 Ensure the libraries are installed, open Arduino IDE, load the `WiegandDisplay.ino`, compile, & flash.
 
+## Case
+
+STL files are included for a case that fits the 0.91 Inch OLED display module, Wemos D1 Mini, and provides a pass through for mounting an RFID reader.
+
+The case bottom is attached with countersunk M3 screws into M3 x 4mm heatset knurled inserts. 
+
 ## Acknowledgement
 
 This project makes use of the following libraries and their examples:
