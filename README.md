@@ -48,7 +48,7 @@ This project makes use of the following libraries and their examples:
 
 [https://github.com/adafruit/Adafruit_SSD1306](https://github.com/adafruit/Adafruit_SSD1306)
 
-This project was inspired by a tool shown during this fantasic talk: [Ghosting the PACS-man](https://www.youtube.com/watch?v=ghiHXK4GEzE) 
+This project was inspired by a tool shown by Babak Javadi during this fantasic talk: [Ghosting the PACS-man](https://www.youtube.com/watch?v=ghiHXK4GEzE) 
 
 
 ## License
